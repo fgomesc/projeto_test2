@@ -2,6 +2,8 @@
 
 Sistema de Eventos encomendado pela morena.
 
+[![Build Status](https://travis-ci.org/fgomesc/projeto_test2.svg?branch=master)](https://travis-ci.org/fgomesc/projeto_test2)
+
  1. clone o repositório
  2. Crie um virtualenv com python 3.5
  3. Ative o virtualenv.
